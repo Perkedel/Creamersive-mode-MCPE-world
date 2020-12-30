@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "SSPE V3.0",
+    "name": "SSPE 3.0",
+    "packs_version": "3.0",
+    "description": "Lightweight,0 lag, Perfect for PvP, By @RyFol",
+    "modules": [
+      {
+        "description": "Lightweight,0 lag, Perfect for PvP, By @RyFol",
+        "version": "3.0",
+        "uuid": "91df2d80-c6f000-11dssd6-9dvv9d-cec0c932cdnnfdfe54",
+        "type": "resources"
+      }
+    ]
+  }
+}

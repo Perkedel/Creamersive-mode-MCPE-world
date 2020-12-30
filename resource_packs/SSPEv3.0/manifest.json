@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Lightweight,0 lag, Perfect for PvP, By @RyFol",
+      "name" : "SSPE 3.0",
+      "uuid" : "61b6997a-3337-3b0b-a672-f551b2c6840a",
+      "version" : [ 3, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "Lightweight,0 lag, Perfect for PvP, By @RyFol",
+         "type" : "resources",
+         "uuid" : "6c80acdd-fcd8-3a2d-b382-e2c6b31b7557",
+         "version" : [ 3, 0, 0 ]
+      }
+   ]
+}

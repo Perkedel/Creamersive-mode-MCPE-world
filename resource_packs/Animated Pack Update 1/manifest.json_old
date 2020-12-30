@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "33ec6324-c8a7-11e6-9d9d-cec0c932ce01",
+    "name": "Animated Pack",
+    "packs_version": "1.1.0",
+    "description": "Minecraft Animated!",
+    "modules": [
+      {
+        "description": "Minecraft Animated!",
+        "version": "1.1.0",
+        "uuid": "33ec659a-c8a7-11e6-9d9d-cec0c932ce01",
+        "type": "resources"
+      }
+    ]
+  }
+}
